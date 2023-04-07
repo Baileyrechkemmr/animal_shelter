@@ -1,0 +1,25 @@
+#root {
+  background-image: url('https://i.imgur.com/RTIXTbV.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display : flex;
+  flex-direction: column;
+}
+.animalsCards{
+  display : flex;
+  flex-direction: row;
+  padding-left: 13%;
+  padding-top: 5%;
+  margin: 10% 30px 15% 30px;
+  padding-bottom: 3%;
+  overflow-y: scroll;
+  border-radius: 10px;
+  box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px;
+  background-color: rgba(128, 128, 128, 0.639);
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
